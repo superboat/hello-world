@@ -1,2 +1,2 @@
 # hello-world
-Try out GitHub.
+This is the first revision.
